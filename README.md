@@ -1,1 +1,1 @@
-# website
+remote_theme: THEME-NAME
